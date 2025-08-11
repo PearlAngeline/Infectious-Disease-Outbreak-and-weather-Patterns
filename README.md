@@ -106,6 +106,9 @@ and Acute Encephalitis Syndrome, with ~8,985 outbreak records totaling ~842,087 
                      Trends: Declining outbreaks post-2016; seasonal spikes post-monsoon.
                      Hotspots: Maharashtra (1,195 outbreaks), Karnataka (1,097).
 					 
+	<img width="549" height="402" alt="deat rate per year" src="https://github.com/user-attachments/assets/57a4fb51-b0a3-415e-bc38-e69171e69a9e" />
+	<img width="1200" height="600" alt="caese over weeks" src="https://github.com/user-attachments/assets/4151457f-2663-4d57-9644-0af2c73e5cfb" />
+			 
 
 3. Power BI Project (with EDA, Data Modeling, DAX)
 
