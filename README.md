@@ -101,10 +101,12 @@ and Acute Encephalitis Syndrome, with ~8,985 outbreak records totaling ~842,087 
                      Boxplot: Temperature Distribution by Disease (e.g., variations across diseases like Malaria vs. Dengue).
                      (Inferred from code patterns): Correlation heatmaps, bar plots for disease frequency, line plots for cases over time, scatter plots for geospatial analysis (lat/long vs. cases), boxplots for                      precipitation by disease.
 					 
-					 <p align="center">
-                     <img src="https://github.com/user-attachments/assets/57a4fb51-b0a3-415e-bc38-e69171e69a9e" width="400">
-                     <img src="https://github.com/user-attachments/assets/4151457f-2663-4d57-9644-0af2c73e5cfb" width="600">
-                     </p>
+### Death Rate per Year
+![Death rate per year](https://github.com/user-attachments/assets/57a4fb51-b0a3-415e-bc38-e69171e69a9e)
+
+### Cases Over Weeks
+![Cases over weeks](https://github.com/user-attachments/assets/4151457f-2663-4d57-9644-0af2c73e5cfb)
+
 
  
           •      Analysis:
