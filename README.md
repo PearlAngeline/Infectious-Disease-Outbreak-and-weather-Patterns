@@ -1,6 +1,7 @@
 ## Dataset
 The dataset used in this project is included in the repository:  
-- [Infectious_Disease_Outbreak.csv](Infectious_Disease_Outbreak.csv)
+- [Download Dataset (XLSX)](https://github.com/PearlAngeline/Infectious-Disease-Outbreak-and-weather-Patterns/raw/main/Infectious_Disease_Outbreak.xlsx)
+
 
 # Infectious-Disease-Outbreak-and-weather-Patterns
   An epidemiological record focused on disease outbreaks, specifically Acute Diarrhoeal Disease, in India.
