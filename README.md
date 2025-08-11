@@ -1,8 +1,21 @@
 ## Dataset
 The dataset used in this project is included in the repository:  
-- [Download Dataset (XLSX)](https://github.com/PearlAngeline/Infectious-Disease-Outbreak-and-weather-Patterns/raw/main/Infectious%20Disease%20Outbreak%20and%20weather%20Patterns.xlsx)
+Source - [Download Dataset (XLSX)](https://github.com/PearlAngeline/Infectious-Disease-Outbreak-and-weather-Patterns/raw/main/Infectious%20Disease%20Outbreak%20and%20weather%20Patterns.xlsx) 
+Format: .xlsx
 
+Key Columns:
+Week of outbreak
+State / District
+Disease name
+Cases, Range, Deaths
+Weather data (Precipitation, Temperature, etc.)
+Geolocation (Latitude, Longitude)
 
+🛠 Tools & Technologies
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Power BI (Interactive dashboards)
+Excel (Initial data cleaning and dashboard)
+GitHub (Version control)
 
 # Infectious-Disease-Outbreak-and-weather-Patterns
   An epidemiological record focused on disease outbreaks, specifically Acute Diarrhoeal Disease, in India.
@@ -45,11 +58,11 @@ Temp: The temperature (e.g., 29.53).
 	            Key metrics (KPIs)
 		                 Bar, line, pie, boxplots,pie, bubble charts
 		                 Filters (using slicers) to visualize cases in different regions and death rates.
+  Excel Dashboard
+  <img width="1612" height="766" alt="ExcelDashboard" src="https://github.com/user-attachments/assets/9411db00-9f34-4a10-a022-a8af315ba2fe" />
 
 
-
-
-3. EDA & Visualization using Python
+2. EDA & Visualization using Python
 
 This repository contains a Jupyter Notebook (Infectious Disease Outbreak and weather Patterns.ipynb) that analyzes a dataset on
  infectious disease outbreaks in India from 2009 to 2022, integrated with weather patterns (precipitation and temperature). 
@@ -86,17 +99,15 @@ and Acute Encephalitis Syndrome, with ~8,985 outbreak records totaling ~842,087 
           •      Visualizations:
                      Generates visualizations using plots such as Bar, line, pie, bubble, area, boxplots charts
                      Boxplot: Temperature Distribution by Disease (e.g., variations across diseases like Malaria vs. Dengue).
-                     (Inferred from code patterns): Correlation heatmaps, bar plots for disease frequency, line plots for cases over time, scatter plots for geospatial analysis (lat/long vs. cases), boxplots for precipitation by disease.
+                     (Inferred from code patterns): Correlation heatmaps, bar plots for disease frequency, line plots for cases over time, scatter plots for geospatial analysis (lat/long vs. cases), boxplots for                      precipitation by disease.
  
           •      Analysis:
                      Correlations: Weak links between cases and weather (e.g., preci ~ -0.018, temp ~ +0.001).
                      Trends: Declining outbreaks post-2016; seasonal spikes post-monsoon.
                      Hotspots: Maharashtra (1,195 outbreaks), Karnataka (1,097).
-
-
+					 
 
 3. Power BI Project (with EDA, Data Modeling, DAX)
-
 
          • Data Import & Cleaning:
               Imported Final.csv using Power Query and removed duplicates with "Remove Duplicates".
@@ -114,3 +125,21 @@ and Acute Encephalitis Syndrome, with ~8,985 outbreak records totaling ~842,087 
          • Dashboard Creation:
                Designed an interactive layout with slicers, KPIs (Total Cases, Average Temp), and visuals (map, bar, line charts).
                Ensured readability with clear titles, legends, and relevant filters.
+
+ Power BI Dashboard
+A fully interactive dashboard was created to visualize outbreak patterns and weather correlations.
+<img width="1375" height="755" alt="PowerBiDashboard" src="https://github.com/user-attachments/assets/f75eeef0-94e5-464a-a2d6-7c48cfb8c07c" />
+
+
+ Insights
+Certain diseases show seasonal spikes linked to weather changes.
+Geographic clustering observed in specific states during certain months.
+Potential for predictive modeling with historical weather and disease data.
+
+ Contact
+Pearl Angeline
+ Email: pearlangeline2@gmail.com
+ LinkedIn: linkedin.com/in/pearlangeline
+ GitHub: github.com/PearlAngeline
+
+
