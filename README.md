@@ -1,6 +1,7 @@
 ## Dataset
 The dataset used in this project is included in the repository:  
-- [Download Dataset (XLSX)](https://github.com/PearlAngeline/Infectious-Disease-Outbreak-and-weather-Patterns/raw/main/Infectious_Disease_Outbreak.xlsx)
+- [Download Dataset (XLSX)](https://github.com/PearlAngeline/Infectious-Disease-Outbreak-and-weather-Patterns/raw/main/Infectious%20Disease%20Outbreak%20and%20weather%20Patterns.xlsx)
+
 
 
 # Infectious-Disease-Outbreak-and-weather-Patterns
